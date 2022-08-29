@@ -8,7 +8,7 @@ ul {
 
 li {
     float: left;
-   /*  border-right: 1px solid #627bf7;  */
+    /*  border-right: 1px solid #627bf7;  */
 }
 
 li:last-child {
@@ -43,7 +43,7 @@ h1 {
     color: #627bf7;
     font-size: 28px;
     font-family: "Raleway", sans-serif;
-    
+
     padding: 14px 16px;
 }
 
